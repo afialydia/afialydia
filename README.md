@@ -1,4 +1,4 @@
-## Hi I'm Afia (she/her), a PERN developer based in Baltimore, MD. ✨👋
+### Hi I'm Afia, a PERN developer based in Baltimore, MD. ✨👋
 
 ###### I cherish creativity, inclusion, and accessibility, and am most excited about projects where I can combine my love of the arts and technology with my passion for creating products that meaningfully impact users of all walks. [Check out my portfolio](https://afiacaruso.com) 🥰
 
