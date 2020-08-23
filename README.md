@@ -2,10 +2,10 @@
 
 ###### I cherish creativity, inclusion, and accessibility, and am most excited about projects where I can combine my love of the arts and technology with my passion for creating products that meaningfully impact users of all walks. I am actively looking for roles in front end and back end development. [Check out my portfolio](https://afiacaruso.com) 🥰
 
-### 📚 Currently learning: 
+### 📚 Currently exploring: 
 ###### *Python 🐍, Liquid 💦 & React-Spring 🔩*
 
-### 🛠️ Current Pet Project:
+### 🛠️ Pet Project:
 ###### *[BuddiGuide](https://github.com/afialydia/BuddiGuide) -- a web app designed to provide a resource for medical marijuana users to research and track their strain preference*
 
 ### 🤞 2020 Goals: 
