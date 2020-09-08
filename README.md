@@ -1,4 +1,4 @@
-### Hi I'm Afia, a full stack developer based in Baltimore, MD. ✨👋
+### Hi I'm Afia, a full stack engineer based in Baltimore, MD. ✨👋
 
 I cherish creativity, inclusion, and accessibility, and am most excited about projects where I can combine my love of the arts and technology with my passion for creating products that meaningfully impact users of all walks. I am actively looking for roles in front end and back end development. [Check out my portfolio](https://afiacaruso.com) 🥰
 
