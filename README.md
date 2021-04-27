@@ -8,9 +8,8 @@ I cherish creativity, inclusion, and accessibility, and am most excited about pr
 ### 🛠️ Pet Project:
 [BuddiGuide](https://github.com/afialydia/BuddiGuide) -- a web app designed to provide a resource for medical marijuana users to research and track their strain preference
 
-### 🤞 2020 Goals: 
+### 🤞 2021 Goals: 
 * *Develop something "enlightening" with the [Hue API](https://developers.meethue.com/) 💡* 
-* *Find out what [waacking](https://youtu.be/h387rZ-tqc4?t=77) is all about 💃🏾 - it's a dance!* 
 
 
 
