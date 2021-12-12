@@ -2,14 +2,10 @@
 
 I cherish creativity, inclusion, and accessibility, and am most excited about projects where I can combine my love of the arts and technology with my passion for creating products that meaningfully impact users of all walks.  [Check out my portfolio](https://afiacaruso.com) 🥰
 
-### 📚 Currently exploring: 
-*Python 🐍, Liquid 💦 & React-Spring 🔩*
 
 ### 🛠️ Pet Project:
 [BuddiGuide](https://github.com/afialydia/BuddiGuide) -- a web app designed to provide a resource for medical marijuana users to research and track their strain preference
 
-### 🤞 2021 Goals: 
-* *Develop something "enlightening" with the [Hue API](https://developers.meethue.com/) 💡* 
 
 
 
